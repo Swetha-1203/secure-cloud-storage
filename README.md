@@ -1,4 +1,5 @@
 FInal Year Project Secure Cloud Storage Overview 
+live deployment Link : https://secure-cloud-storage.vercel.app
 
 The aim of this project is to develop a secure cloud storage application for Dropbox, Box, Google Drive, Office365 etc. For example, your application will secure all files that are uploaded to the cloud, such that only people that are part of your "Secure Cloud Storage Group" will be able to decrypt uploaded files. Any member of the group should be able to upload encrypted files to the cloud service. To all other users the files will be encrypted.
 
